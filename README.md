@@ -82,4 +82,4 @@ Finally, simply execute the notebook **cell by cell**. The notebook will handle 
 ## 🎥 Recording
 
 For a complete walkthrough, check out the video at the following link:
-🔗 [Project Recording](https://drive.google.com/file/d/1YkVlR0HYCcJvk3LoFpOWuL8gGeIZK1Gx/view?usp=drive_link)
+🔗 [Project Recording](https://drive.google.com/file/d/1YkVlR0HYCcJvk3LoFpOWuL8gGeIZK1Gx/view?usp=sharing)
